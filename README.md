@@ -11,7 +11,7 @@
 
 ---
 
-I'm a CS student who genuinely loves learning — not as a hobby to put on a CV, just as a default way of existing. This GitHub is where I put the things I build and sometimes the notes I take. If something here is useful to you, great.
+I'm a CEng student who genuinely loves learning — not as a hobby to put on a CV, just as a default way of existing. This is where I put the things I build and sometimes the notes I take. If something here is useful to you, great :D
 
 I'm most at home in backend development. I like understanding how things fit together under the hood — why a system is designed a certain way, not just how to use it. Lately that's meant a lot of Spring Boot, some cloud stuff, and slowly making sense of Docker.
 
@@ -19,10 +19,10 @@ I'm most at home in backend development. I like understanding how things fit tog
 
 ## 🔧 tech stack
 
-**Languages:** Java · Dart (Flutter) · C++ · JavaScript · C#  
-**Backend:** Spring Boot · Spring MVC · Spring Data JPA · Hibernate · Maven  
+**Languages:** Mainly Java · Dart (Flutter) · C++ · JavaScript · C#  
+**Backend:** Im all about Spring Boot!! · Spring MVC · Spring Data JPA · Hibernate · Maven  
 **Data:** MySQL · SQLite · JDBC  
-**Tools:** Git · Docker · Postman · GitHub Actions · Swagger/OpenAPI · Notion
+**Tools:** Git · Docker · Postman · GitHub Actions · Swagger/OpenAPI · Jira and many more!
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" />
